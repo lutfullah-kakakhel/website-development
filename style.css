@@ -1,0 +1,42 @@
+
+h2 {font-family: verdana; font-size: 24px; text-align: center;}
+body {
+	background-color: whitesmoke;
+	box-sizing: border-box;
+}
+#box {
+	position: relative;
+	background-color:black;
+	padding: 1px 1px 1px 1px;
+	border: 1px solid black;
+	width: 50%;
+	margin-top: 50px;  
+}
+#corner-box{
+    position:absolute;
+    margin-top:1px;
+    right:40%;
+    background:cyan;
+    width:60px;
+    height:40px;
+    border:  1px solid black;
+
+}
+
+#content {
+	background-color: #90EE90;
+}
+div
+ {
+ background-color=#ffffff;
+}
+
+#p1 {
+	background-color=#ffffff;
+}
+#p2 {
+	background-color=#ffffff;
+}
+#p3 {
+	background-color=#ffffff;
+}
